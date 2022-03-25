@@ -176,21 +176,3 @@ TSWLatexianTemp*
 
 # Kile
 *.backup
-
-# KBibTeX
-*~[0-9]*
-submission/main - ar.tex
-submission/main-ar.tex
-submission/abbrev0.bib
-submission/abbrev1.bib
-submission/abbrev2.bib
-submission/abbrev3.bib
-.DS_Store
-crypto.bib
-abbrev3.bib
-crypto.bib
-abbrev3.bib
-crypto.bib
-abbrev3.bib
-abbrev3.bib
-crypto.bib
